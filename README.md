@@ -1,5 +1,5 @@
 # Calculator
-Wee usd what we know about html, css and javascript. So we decided to build a simple calculator app. At the end of this challenge I can say that I'm able to generate a simple app using the DOM and events.
+We used what we know about html, css and javascript. So we decided to build a simple calculator app. At the end of this challenge I can say that I'm able to generate a simple app using the DOM and events.
  
 ## Screenshot
 
